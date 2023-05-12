@@ -1,0 +1,5 @@
+module github.com/brimstone/arch-zip/netlify/functions/index
+
+go 1.19
+
+require github.com/aws/aws-lambda-go v1.41.0
