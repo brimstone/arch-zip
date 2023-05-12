@@ -29,6 +29,26 @@
           "value": "firefox.i386.zip"
         }
       ]
+    },
+    {
+      "source": "/",
+      "destination": "https://github.com/gentilkiwi/mimikatz/releases/latest/download/mimikatz_trunk.zip",
+      "has": [
+        {
+          "type": "host",
+          "value": "mimikatz.x86-64.zip"
+        }
+      ]
+    },
+    {
+      "source": "/",
+      "destination": "https://github.com/gentilkiwi/mimikatz/releases/latest/download/mimikatz_trunk.zip",
+      "has": [
+        {
+          "type": "host",
+          "value": "mimikatz.i386.zip"
+        }
+      ]
     }
   ]
 }
