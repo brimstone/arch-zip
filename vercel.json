@@ -15,7 +15,8 @@
       "destination": "https://download.mozilla.org/?product=firefox-latest&os=win64&lang=en-US",
       "has": [
         {
-          "host": "firefox.x86-64.zip"
+          "type": "host",
+          "value": "firefox.x86-64.zip"
         }
       ]
     },
@@ -24,7 +25,8 @@
       "destination": "https://download.mozilla.org/?product=firefox-latest&os=win&lang=en-US",
       "has": [
         {
-          "host": "firefox.i386.zip"
+          "type": "host",
+          "value": "firefox.i386.zip"
         }
       ]
     }
